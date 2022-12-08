@@ -1,0 +1,9 @@
+set_var EASYRSA_REQ_CONRY ES
+set_var EASYRSA_REQ_CONRY "ES"
+set_var EASYRSA_REQ_PROVINCE "Valencia"
+set_var EASYRSA_REQ_CITY "Valencia"
+set_var EASYRSA_REQ_ORG  "upv"
+set_var EASYRSA_REQ_EMAIL "upv.vera@gmail.com"
+set_var EASYRSA_REQ_OU "dep de informatica"
+set_var EASYRSA_ALGO "ec"
+set_var EASYRSA_DIGEST "sha512"
