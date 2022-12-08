@@ -26,7 +26,7 @@ do
             echo "Introduce los valores entre comillas dobles .."
            cd /home/$USER/easy-rsa
            read -p "COUNTRY?" country;
-           echo set_var EASYRSA_REQ_CONRY $country >> vars;
+           echo set_var EASYRSA_REQ_COUNTRY $country >> vars;
            read -p "PROVINCE?" province;
            echo set_var EASYRSA_REQ_PROVINCE $province >>vars;
            read -p "CITY?" city;
