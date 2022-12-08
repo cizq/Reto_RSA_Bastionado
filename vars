@@ -1,4 +1,4 @@
-set_var EASYRSA_REQ_COUNTRY ES
+set_var EASYRSA_REQ_COUNTRY "ES"
 set_var EASYRSA_REQ_PROVINCE "Valencia"
 set_var EASYRSA_REQ_CITY "Valencia"
 set_var EASYRSA_REQ_ORG  "upv"
