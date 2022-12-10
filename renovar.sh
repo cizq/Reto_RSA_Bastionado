@@ -3,7 +3,7 @@
 while true; do
 
 	echo "-------------------------------------------";
-	echo "| [ Script renovación]         |";
+	echo "| [ Script revocación]         |";
 	echo "-------------------------------------------";
 	echo " 1.- Revocar un certificado";
 	echo " 2.- Generar lista de revocación de certificados";
